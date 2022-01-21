@@ -1,2 +1,2 @@
-# orign start.py start.sh
+# orign start.py
 
